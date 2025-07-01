@@ -10,7 +10,7 @@ export default function Index() {
       }}
     >
       <Text className="text-green-600 font-bold text-3xl text-center">
-        Edit app/index.tsx to edit this screen.
+        Edit app/index.tsx to edit this screen.{" "}
       </Text>
     </View>
   );
